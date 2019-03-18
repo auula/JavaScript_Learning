@@ -15,13 +15,6 @@
 <p align="center">
  本项目停止维护了，一些小伙伴的反馈的错误已经在最后一个版本里解决了，有条件的小伙伴推荐你们去所以SSR，镜像只能用来快速搜索用的，部分被墙的站还是无法打开~
 </p>
-
 # Learning 学习目录
 
-1. 第一个JavaScript程序Hello 
-
-   [源代码]: https://github.com/javascript-club/JavaScript_Learning/tree/master/Hello	"Hello"
-
-   
-
-
+1. [第一个程序](“https://github.com/javascript-club/JavaScript_Learning/tree/master/Hello”)
