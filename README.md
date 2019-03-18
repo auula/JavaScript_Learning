@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/JDode/"><img src="https://avatars3.githubusercontent.com/u/48614570?s=200&v=4" width="650"/></a>
+    <a href="https://github.com/JDode/"><img src="https://avatars3.githubusercontent.com/u/48614570?s=200&v=4" width="250"/></a>
 </p>
 
 <p align="center">这是一个 <code>JavaScript</code> 的学习例子分享仓库😋</p>
