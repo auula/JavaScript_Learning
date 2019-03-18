@@ -26,5 +26,5 @@
  2. [使用JavaScript开发一个时钟⏲️][2]
 
 
-  [1]: https://github.com/javascript-club/JavaScript_Learning/tree/master/Hello
-  [2]: https://github.com/javascript-club/JavaScript_Learning/tree/master/NowTime
+  [1]: https://github.com/JDode/JavaScript_Learning/tree/master/Hello
+  [2]: https://github.com/JDode/JavaScript_Learning/tree/master/NowTime
