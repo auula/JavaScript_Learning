@@ -24,7 +24,7 @@
 
  1. [第一个学习例子Hello👋][1]
  2. [使用JavaScript开发一个时钟⏲️][2]
- 3. [使用JavaScript对象使用👧][2]
+ 3. [使用JavaScript对象使用👧][3]
 
   [1]: https://github.com/JDode/JavaScript_Learning/tree/master/Hello
   [2]: https://github.com/JDode/JavaScript_Learning/tree/master/NowTime
